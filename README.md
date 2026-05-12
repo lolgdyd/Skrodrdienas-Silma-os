@@ -1,1 +1,2 @@
-#par ko ir Musu darbs?
+# par ko ir Musu darbs?
+Musu darbs ir par Rudolfa Blaumaņā literāro darbu " 
