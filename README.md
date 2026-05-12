@@ -1,1 +1,1 @@
-# Skrodrdienas-Silma-os
+# Skrodrdienas-Silmačos
