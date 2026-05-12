@@ -1,2 +1,1 @@
-# Skroderdienas-Silmačos
-Skroderdienas Silmačos ir viena no slavenākajām un visvairāk iestudētajām lugām latviešu literatūrā un teātrī. Tās autors ir Rūdolfs Blaumanis. Luga sarakstīta 1901. gadā, bet pirmizrāde notika 1902. gada 30. janvārī Rīgas Latviešu teātrī.
+#par ko ir Musu darbs?
